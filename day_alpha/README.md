@@ -1,4 +1,4 @@
-# Linux kernel study day-alpha
+# Linux/Android kernel research day-alpha
 
 ### Object
 
