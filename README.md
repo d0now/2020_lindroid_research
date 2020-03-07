@@ -24,9 +24,9 @@ Organizer dhkim@stealien
   책의 특정 챕터에서 설명하는 Linux kernel 기준으로 해당 위치에서 발생한 취약점에 대해 분석 및 발표 or 소스 분석 및 발표.  
   매 회차 자세한 사항은 시작시 공지.
 * **ETC**
-  * **Intel® 64 and IA-32 Architectures Software Developer Manuals** 
+  * **Intel® 64 and IA-32 Architectures Software Developer Manuals**   
     <https://software.intel.com/en-us/articles/intel-sdm>
-  * **ARM Cortex-A Series Programmer’s Guide for ARMv8-A**
+  * **ARM Cortex-A Series Programmer’s Guide for ARMv8-A**  
     <https://developer.arm.com/docs/den0024/a/preface>
 
 
